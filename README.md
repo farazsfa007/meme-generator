@@ -30,10 +30,10 @@ In this project, I have build a **Meme Generator** app
 ### Completion Instructions
 
 <details>
-<summary>Functionality to be added</summary>
+<summary>Functionality</summary>
 <br/>
 
-The app must have the following functionalities
+The app have the following functionalities
 
 - Initially, values in the inputs elements should be empty and the selected value in the select element should be the first item in the given fontSizesOptionsList
 - When non-empty values are provided for **Image Url**, **Top Text**, **Bottom Text**, and **Font Size** and the **Generate** button is clicked
