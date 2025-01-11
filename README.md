@@ -1,4 +1,4 @@
-In this project, let's build a **Meme Generator** app by applying the concepts we have learned till now.
+In this project, I have build a **Meme Generator** app
 
 ### Refer to the image below:
 
@@ -48,25 +48,11 @@ The app must have the following functionalities
 <summary>Implementation Files</summary>
 <br/>
 
-Use these files to complete the implementation:
+Use these files for source code:
 
 - `src/App.js`
 - `src/components/MemeGenerator/index.js`
 - `src/components/MemeGenerator/styledComponents.js`
-
-</details>
-
-### Important Note
-
-<details>
-<summary>Click to view</summary>
-
-<br/>
-
-**The following instructions are required for the tests to pass**
-
-- The HTML container element for the generated meme should have `data-testid` attribute value as **meme**
-- When Styled Components are used, `data-testid` attribute should be used instead of `testid` attribute
 
 </details>
 
@@ -100,12 +86,3 @@ Use these files to complete the implementation:
 - Open Sans
 
 </details>
-
-> ### _Things to Keep in Mind_
->
-> - All components you implement should go in the `src/components` directory.
-> - Don't change the component folder names as those are the files being imported into the tests.
-> - **Do not remove the pre-filled code**
-> - Want to quickly review some of the concepts you’ve been learning? Take a look at the Cheat Sheets.
-# meme-generator
-# meme-generator
